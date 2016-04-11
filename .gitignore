@@ -6,3 +6,10 @@
 /build
 /captures
 *.iml
+compiler.xml
+profiles_settings.xml
+gradle.xml
+misc.xml
+modules.xml
+runConfigurations.xml
+vcs.xml
